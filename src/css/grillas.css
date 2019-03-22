@@ -1,0 +1,81 @@
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+      width: 100%;
+ }
+
+ #menumain{
+  padding: 0px;
+  margin-left: 3%;
+}
+header{
+height: 110px;
+} 
+
+.menu{
+  text-align: center;
+  font-size: 25px;
+  padding: 10px 30px;
+  margin-top: -53%
+}
+
+#personal,#agregar{
+  font-size: 17px;
+  margin-top: 22px;
+  margin-left: 36px;
+  font-size: 'Lato';
+}
+#contactos{
+  font-size: 20px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-top: 23px;
+}
+#lupa{
+margin-left: 184px;
+}
+#menu{
+margin-left: 29px;
+}
+#fotoContacto{
+
+margin-top: 33px;
+margin-left: 8px;
+width: 54px;
+}
+
+#nombreContacto{
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 29px;
+color: #1A83C4;
+margin-left: 78px;
+margin-top: -53px;
+}
+#hora{
+margin-left: 304px;
+font-size: 17px;
+letter-spacing: 0.3px;
+color: #1A83C4;
+margin-top: -28px;
+}
+#info{
+margin-left: 316px;
+margin-top: -1px;
+width: 22px;
+}
+#uno{
+  margin-left: -19px;
+  margin-top: 14px;
+  width: 7px;
+}
+#linea{
+  margin-top: 8px;
+}
+#linea2{
+  margin-top: 43px;
+}
+
+
+}
